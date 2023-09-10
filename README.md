@@ -5,6 +5,9 @@
 
 # About Me ✨
 👩‍💼 My name is Rahma Alifia Nurrekhan, you can call me fia
+
 🎓 Geophysics student at Gajah Mada University 
-🌎 Interested in geoscience exploration and data processing
+
 📘 currently learning geology, physics, and computation
+
+🌎 Interested in geoscience exploration and data processing
