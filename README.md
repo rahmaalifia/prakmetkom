@@ -8,8 +8,15 @@
 
 🎓 Geophysics student at Gajah Mada University 
 
-📘 currently learning geology, physics, and computation
+📘 Currently learning geology, physics, and computation
 
 🌎 Interested in geoscience exploration and data processing
 
-## Connect with me
+📄 Love to read science fiction stories
+
+## Connect with me 
+<p align="center">
+<a href="https://instagram.com/fianurrekhannn_"><img src="https://img.shields.io/badge/-@fianurrekhannn__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/rahma-alifia-nurrekhan-a82415278/"><img src="https://img.shields.io/badge/-Rahma%20Alifia%20Nurrekhan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:alifianurrekhan@gmail.com"><img src="https://img.shields.io/badge/-alifianurrekhan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
